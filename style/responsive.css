@@ -1,16 +1,21 @@
 @media screen and (max-width: 600px){
     body{
-        background: #fff;
+        background: #000;
     }
     .continar{
-       background-color:#fff;
+        width: 95%;
         padding: 15px;
-        margin:20px 30px;
+        margin:20px auto;
     }
     .time{
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
    h1{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+  }
+  .continar button{
+    width: 80px;
+    height: 35px;
+    font-size: 0.9rem;
   }
 }
